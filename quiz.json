@@ -1,0 +1,50 @@
+[
+	{
+		"index":0,
+		"question":"Far-right protestors tried to storm the Parliament building in which country?",
+		"correctAnswer":"d",		
+		"options":
+		[
+			{"index":"a","option":"Australia"},
+			{"index":"b","option":"Britain"},
+			{"index":"c","option":"France"},
+			{"index":"d","option":"Germany"}
+		]
+	},	
+	{
+		"index":1,
+		"question":"Why did Shinzo Abe, prime minister of Japan, resign from office?",
+		"correctAnswer":"c",		
+		"options":
+		[
+			{"index":"a","option":"An extramarital affair"},
+			{"index":"b","option":"Fraud"},
+			{"index":"c","option":"Illness"},
+			{"index":"d","option":"Protests"}
+		]
+	},
+	{
+		"index":2,
+		"question":"What did two commercial jet pilots reported seeing in the busy airspace near Los Angeles International Airport?",
+		"correctAnswer":"b",		
+		"options":
+		[
+			{"index":"a","option":"An attack drone"},
+			{"index":"b","option":"A man with a jetpack"},
+			{"index":"c","option":"A girl attached to a kite"},
+			{"index":"d","option":"A U.F.O."}
+		]
+	},
+	{
+		"index":3,
+		"question":"After more than seven decades of absence, jaguars are being reintroduced into the wetlands of which country?",
+		"correctAnswer":"a",		
+		"options":
+		[
+			{"index":"a","option":"Argentina"},
+			{"index":"b","option":"Belize"},
+			{"index":"c","option":"Colombia"},
+			{"index":"d","option":"Mexico"}
+		]
+	}
+]			
